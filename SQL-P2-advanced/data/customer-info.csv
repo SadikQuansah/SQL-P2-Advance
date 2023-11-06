@@ -1,0 +1,22 @@
+CustomerID,Name,CustomerSince,Age,State,ZipCode,Occupation
+1001,Harry Potter,2020,20,NJ,7960,Teacher
+1002,Hermione Granger,2021,20,NY,10025,Lawyer
+1003,Draco Malfoy,2019,20,CT,6807,Manager
+1004,Albus Dumbledore,2019,70,NJ,7030,Professor
+1005,Severus Snape,2019,50,NJ,7960,Professor
+1006,Ron Weasley,2020,20,PA,19019,Teacher
+1007,Dobby,2021,150,NY,10014,House Elf
+1008,Minerva McGonagall,2019,68,NY,10013,Principal
+1009,Neville Longbottom,2020,20,NJ,7035,Botanist
+1010,Luna Lovegood,2020,19,MA,2101,Cryptozoologist
+1011,Katniss Everdeen,2019,25,WA,98101,Crossfit Instructor
+1012,Peeta Mellark,2019,25,WA,98101,Baker
+1013,Gale Hawthorne,2021,26,CA,90210,Crossfit Instructor
+1014,Haymitch Abernathy,2021,45,CA,90210,Bartender
+1015,Cinna,2020,38,CA,90291,Designer
+1016,Rue,2021,18,OR,97035,Botanist
+1017,Primrose Everdeen,2019,18,OR,97035,Doctor
+1018,Coriolanus Snow,2019,75,DC,20001,Politician
+1019,Effie Trinket,2019,40,DC,20005,Designer
+1020,Finnick Odair,2020,30,CA,90291,Crossfit Instructor
+1021,Beetee Latier,2020,55,PA,15106,Professor
